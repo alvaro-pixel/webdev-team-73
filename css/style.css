@@ -1,0 +1,319 @@
+/* Typography */
+
+
+
+h1 {
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 2.5em; /* 40px/16=2.5em */}
+
+h2 
+{
+    color: rgb(3,0,53);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.875em; /* 30px/16=1.875em */
+}
+
+h3
+{
+    color: rgb(3,0,53);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1.125em; /* 18px/16=1.125em */
+
+}
+
+.top-key-visual p
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+    color: white;
+
+}
+p
+{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+}
+
+/* Main Section */
+
+
+.top-key-visual
+{
+    background-color: rgb(3,0,53);
+    width: auto;
+    height: 31.250em;
+
+}
+
+
+/* Attractions Section */
+
+
+#attractions
+{
+    background-color: rgb(249,249,249);
+
+}
+
+/* General Information */
+
+.general-information li b
+{
+    color:rgb(237,93,57);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+}
+
+summary
+{
+    color:rgb(237,93,57);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+}
+
+.general-information li
+{
+    color:rgb(23,23,23);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+}
+
+/* Newsletter */
+
+#newsletter
+{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+
+#newsletter h2
+{
+    color:rgb(255,255,255);
+}
+
+.input-email--active
+{
+    color: red;
+    border-radius: 5px;
+    color:rgb(23,23,23);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 1em; /* 16px */
+    width: 40%;
+    height: 48px;
+
+}
+
+
+/* Reviews */
+
+.reviews
+{
+    background-color: rgb(249,249,249);
+    box-shadow: 0px 4px 19px rgba(168, 168, 168, 0.25);
+}
+
+#user-review-quote
+{
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 1em; /* 16px */
+
+}
+
+
+
+/* Reviews */
+footer
+{
+  background-color: rgb(3,0,53);
+}
+
+footer #page-info a
+{
+    color: white;
+}
+
+#copyright-info li a
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    list-style-type: none;
+}
+
+#copyright-info li 
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    list-style-type: none;
+}
+
+#contact-info li 
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    list-style-type: none;
+}
+
+#contact-info li:first-child
+{
+    color:aqua;
+    font-weight: 800;
+}
+
+#site-map li
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    list-style-type: none;
+
+}
+
+#contact-info li:first-child
+{
+    color:aqua;
+    font-weight: 800;
+}
+
+#about-info li
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    list-style-type: none;    
+}
+
+#about-info li:first-child
+{
+     color:aqua;
+    font-weight: 800;
+}
+
+#contact-info li:first-child
+{
+    color:aqua;
+    font-weight: 800;
+}
+
+
+#site-map li:first-child
+{
+    color:aqua;
+    font-weight: 800;
+}
+#social-media ul li a
+{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 0.7em; /* 16px */
+    font-weight: 500;
+}
+
+/* Buttons */
+
+.btn-back-to-top
+{
+  background-color: rgb(237,93,57);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 100px;
+}
+
+.btn-cta-large-round--active
+{
+  background-color: rgb(237,93,57);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn-newsletter--active
+{
+  background-color: #8F01FF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Noto Sans JP', sans-serif;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+/* Blog  */
+
+
+.historical-article-list li
+{
+    background-color: ghostwhite;
+    list-style-type: none;    
+    font-family: 'Noto Sans JP', sans-serif;
+
+    
+    
+}
+
+
+.historical-article-list li small
+{
+    background-color: ghostwhite;
+    list-style-type: none;    
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 700;
+
+    
+    
+}
+
+/* Links  */
+
+a {
+    text-decoration: none;
+    
+}
+
+nav a
+{
+    color: rgb(3,0,53);
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 800;
+}
+
+/* Mouse over link */
+
+nav a:hover 
+{   
+    /* Orange */
+    color:rgb(237,93,57);
+}
+
+/* Mouse visited link */
+
+nav a:visited 
+{
+    color:rgb(85,105,246);
+}
